@@ -1,8 +1,10 @@
 ## Welcome!
 **This repository consists of a simple script with Python code to reproduce QSAR models presented in the publication:**
 
-*"TITLE OF THE PUBLICATION"*
-by Authors of the publication
+*"Predicting bioconcentration factors (BCFs) for Per- and Polyfluoroalkyl Substances (PFAS)"*
+by Dominika Kowalska(1), Anita Sosnowska (1,2), Szymon Zdybel (1,2), Tomasz Puzyn (1,2)
+1) QSAR Lab, ul. Trzy Lipy 3, Gdańsk, Poland
+2) Laboratory of Environmental Chemometrics, Faculty of Chemistry, University of Gdansk, 80-308 Gdansk, Poland
 
 Contents:
 - data.xlsx - contains data necessary to reproduce the model
